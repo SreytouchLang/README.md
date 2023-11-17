@@ -21,8 +21,8 @@
 
 ### <h2 align="center">Languages and Tools </h2>
 <p align="center">
-  	<img src="https://developer.apple.com/assets/elements/icons/swift/swift-96x96_2x.png" alt="react" />&nbsp;&nbsp;
-  	<img src="https://developer.android.com/static/images/cluster-illustrations/kotlin-hero.svg" alt="react" />&nbsp;&nbsp;
+  	<img src="https://www.bairesdev.com/wp-content/uploads//2021/06/swift.svg" alt="ios" width="25px"/>&nbsp;&nbsp;
+  	<img src="https://swansoftwaresolutions.com/wp-content/uploads/2020/04/07.23.20-Kotlin-for-Android.jpg" alt="android" width="27px"/>&nbsp;&nbsp;
   	<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />&nbsp;&nbsp;
   	<img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="reactnative" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node" />&nbsp;&nbsp;
