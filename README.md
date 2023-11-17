@@ -1,11 +1,11 @@
 # sreytouch-lang
 ### <h1 align="center">Hi, I'm **Sreytouch Lang(Jessica)** </h1>
 
-### <h3 align="center">A Software Engineer , Web Developer and Programmer!! **[DevFolio][website]**</h3><br>
+### <h3 align="center">A Software Engineer, iOS Developer - Swift and Programmer!! **[DevFolio][website]**</h3><br>
 
-- Fun fact I love to make Websites and code React Apps
-- I’m experienced with **ReactJS** Web Apps and **React Native** android/iOS App Development
-- Currently working on Full stack projects using MERN -  **ReactJs** **ReactNative**  and **NodeJs**
+- Fun fact I love to make mobile application
+- I’m experienced with **iOS - Swift** and **android - Kotlin** iOS/android App Development
+- Currently working on mobile application projects using MERN -  **iOS - Swift**
 - All of my projects are available at my portfolio website: **[DevFolio][website]**
 
 <br>
@@ -13,7 +13,7 @@
 ### <h2 align="center">Contact Me</h2>
 <p align="center">   
   	<a href="mailto:atouch.it@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=DB4437"></a>
-    	<a href="https://www.linkedin.com/in/sreytouchlang/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077b5"></a> 
+    	<a href="https://www.linkedin.com/in/sreytouch-lang/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077b5"></a> 
   	<a href="https://www.instagram.com/sreytouch/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=C13584"></a>
 	<a href="https://twitter.com/sreytouch" target="_blank"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=Twitter&logoColor=1DA1F2"></a>
 </p>
@@ -21,6 +21,8 @@
 
 ### <h2 align="center">Languages and Tools </h2>
 <p align="center">
+  	<img src="https://developer.apple.com/assets/elements/icons/swift/swift-96x96_2x.png" alt="react" />&nbsp;&nbsp;
+  	<img src="https://developer.android.com/static/images/cluster-illustrations/kotlin-hero.svg" alt="react" />&nbsp;&nbsp;
   	<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />&nbsp;&nbsp;
   	<img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="reactnative" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node" />&nbsp;&nbsp;
@@ -40,10 +42,10 @@
 
 
 <p align="center">
-<a href="https://github.com/sreytouch">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sreytouch&show_icons=true&locale=en&theme=algolia"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sreytouch&show_icons=true&locale=en&layout=compact&theme=algolia"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sreytouch&theme=algolia" alt="sreytouch" />
+<a href="https://github.com/SreytouchLang">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SreytouchLang&show_icons=true&locale=en&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=SreytouchLang&show_icons=true&locale=en&layout=compact&theme=algolia"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SreytouchLang&theme=algolia" alt="SreytouchLang" />
 </a>
 </p>
 
