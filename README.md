@@ -21,7 +21,7 @@
 
 ### <h2 align="center">Languages and Tools </h2>
 <p align="center">
-  	<img src="https://www.bairesdev.com/wp-content/uploads//2021/06/swift.svg" alt="ios" width="45px" background="#FFFFFF"/>&nbsp;&nbsp;
+  	<img src="https://www.bairesdev.com/wp-content/uploads//2021/06/swift.svg" alt="ios" width="45px" style="background: #fff"/>&nbsp;&nbsp;
   	<img src="https://swansoftwaresolutions.com/wp-content/uploads/2020/04/07.23.20-Kotlin-for-Android.jpg" alt="android" width="50px"/>&nbsp;&nbsp;
   	<img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="reactnative" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mongo" />&nbsp;&nbsp;
